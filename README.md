@@ -11,7 +11,3 @@ Remote back sync
 remote attempt again
 remote synck back again
 Windows testing at home
-
-test
-cd ../git
-ll
