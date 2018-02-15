@@ -13,3 +13,5 @@ remote synck back again
 Windows testing at home
 
 test
+cd ../git
+ll
